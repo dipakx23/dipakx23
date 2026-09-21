@@ -1,34 +1,90 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Dipak Kumar Das</h1>
 <h3 align="center">AI/ML Developer | Python & C++ | LLMs • Computer Vision | Data Analytics | Building Production-Ready AI Solutions</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dipakx23&label=Profile%20views&color=0e75b6&style=flat" alt="dipakx23" /> </p>
-
-- 🔭 I’m currently working on [Medical Chatbot with LLMs, Vision and Voice also on customer-churn-revenue-analytics-powerbi](https://github.com/dipakx23/customer-churn-revenue-analytics-powerbi)
-
-- 🌱 I’m currently learning **Agentic AI and Redis toolkit**
-
-- 👯 I’m looking to collaborate on **open Source**
-
-- 🤝 I’m looking for help with [DSA_Patterns_Atlas](https://github.com/dipakx23/DSA_Patterns_Atlas)
-
-- 💬 Ask me about **AI/Ml and Data analytics**
-
-- 📫 How to reach me **kumardasdipak987@gmail.com**
-
-- ⚡ Fun fact **I started learning video editing**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://stackoverflow.com/users/dipak kumar das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="dipak kumar das" height="30" width="40" /></a>
-<a href="https://kaggle.com/dipakkumardas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="dipakkumardas" height="30" width="40" /></a>
-<a href="https://instagram.com/_dipxk_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_dipxk_07" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/dipakxdev23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dipakxdev23" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/dipakx23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="dipakx23" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dipakx23&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="mailtoHere is a completely overhauled, production-ready GitHub profile README. It replaces your broken image links with clean dynamic badges, adds full GitHub analytics, features your top projects, and includes the setup for the snake animation.
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dipakx23&show_icons=true&locale=en&layout=compact" alt="dipakx23" /></p>
+Copy the code below into your `README.md` file:
+
+```markdown
+<h1 align="center">Hi 👋, I'm Dipak Kumar Das</h1>
+<h3 align="center">AI/ML Developer | Python & C++ | LLMs • Computer Vision | Data Analytics</h3>
+
+<p align="center">
+  <img src="[https://komarev.com/ghpvc/?username=dipakx23&label=Profile%20views&color=0e75b6&style=flat](https://komarev.com/ghpvc/?username=dipakx23&label=Profile%20views&color=0e75b6&style=flat)" alt="Profile Views" />
+</p>
+
+---
+
+## 🚀 About Me
+
+- 🔭 I’m currently working on **[Medical Chatbot with LLMs, Vision and Voice](https://github.com/dipakx23/customer-churn-revenue-analytics-powerbi)**
+- 🌱 I’m currently learning **Agentic AI and Redis Toolkit**
+- 👯 I’m looking to collaborate on **Open Source AI Projects**
+- 🤝 I’m looking for help with **[DSA_Patterns_Atlas](https://github.com/dipakx23/DSA_Patterns_Atlas)**
+- 💬 Ask me about **AI/ML, Computer Vision, and Data Analytics**
+- 📫 Reach me at: **kumardasdipak987@gmail.com**
+- ⚡ Fun fact: **I recently started learning video editing!**
+
+---
+
+## 💻 Tech Stack
+
+<p align="center">
+  <a href="[https://skillicons.dev](https://skillicons.dev)">
+    <img src="[https://skillicons.dev/icons?i=python,cpp,js,html,css,mysql,sqlite,docker,git,redis,tensorflow,pytorch,scikitlearn,opencv,pandas&perline=8&theme=dark](https://skillicons.dev/icons?i=python,cpp,js,html,css,mysql,sqlite,docker,git,redis,tensorflow,pytorch,scikitlearn,opencv,pandas&perline=8&theme=dark)" alt="Tech Stack" />
+  </a>
+</p>
+
+---
+
+## ⭐ Featured Projects
+
+<p align="center">
+  <a href="[https://github.com/dipakx23/customer-churn-revenue-analytics-powerbi](https://github.com/dipakx23/customer-churn-revenue-analytics-powerbi)">
+    <img src="[https://github-readme-stats.vercel.app/api/pin/?username=dipakx23&repo=customer-churn-revenue-analytics-powerbi&theme=tokyonight](https://github-readme-stats.vercel.app/api/pin/?username=dipakx23&repo=customer-churn-revenue-analytics-powerbi&theme=tokyonight)" alt="Churn Analytics" />
+  </a>
+  <a href="[https://github.com/dipakx23/DSA_Patterns_Atlas](https://github.com/dipakx23/DSA_Patterns_Atlas)">
+    <img src="[https://github-readme-stats.vercel.app/api/pin/?username=dipakx23&repo=DSA_Patterns_Atlas&theme=tokyonight](https://github-readme-stats.vercel.app/api/pin/?username=dipakx23&repo=DSA_Patterns_Atlas&theme=tokyonight)" alt="DSA Patterns" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="[https://github-readme-stats.vercel.app/api?username=dipakx23&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true](https://github-readme-stats.vercel.app/api?username=dipakx23&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)" alt="Dipak's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="[https://github-readme-streak-stats.herokuapp.com/?user=dipakx23&theme=tokyonight](https://github-readme-streak-stats.herokuapp.com/?user=dipakx23&theme=tokyonight)" alt="Dipak's Streak" />
+</p>
+
+<p align="center">
+  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=dipakx23&layout=compact&theme=tokyonight](https://github-readme-stats.vercel.app/api/top-langs/?username=dipakx23&layout=compact&theme=tokyonight)" alt="Top Languages" />
+</p>
+
+---
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="[https://raw.githubusercontent.com/dipakx23/dipakx23/output/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/dipakx23/dipakx23/output/github-contribution-grid-snake.svg)" alt="Snake Animation" />
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="[https://linkedin.com/in/YOUR_LINKEDIN_HANDLE](https://linkedin.com/in/YOUR_LINKEDIN_HANDLE)"><img src="[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" alt="LinkedIn"/></a>
+  <a href="[https://kaggle.com/YOUR_KAGGLE_HANDLE](https://kaggle.com/YOUR_KAGGLE_HANDLE)"><img src="[https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)" alt="Kaggle"/></a>
+  <a href="[https://leetcode.com/YOUR_LEETCODE_HANDLE](https://leetcode.com/YOUR_LEETCODE_HANDLE)"><img src="[https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)" alt="LeetCode"/></a>
+  <a href="[https://stackoverflow.com/users/YOUR_ID](https://stackoverflow.com/users/YOUR_ID)"><img src="[https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)" alt="StackOverflow"/></a>
+  <a href="[https://instagram.com/YOUR_INSTAGRAM_HANDLE](https://instagram.com/YOUR_INSTAGRAM_HANDLE)"><img src="[https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)" alt="Instagram"/></a>
+</p>
