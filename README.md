@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dipak Kumar Das</h1>
 
 <h3 align="center">
-AI/ML Developer • Python & C++ • LLMs • Data Analytics
+AI/ML Developer | Python & C++ | LLMs | Data Analytics
 </h3>
 
 <p align="center">
@@ -133,15 +133,6 @@ https://github.com/dipakx23/customer-churn-revenue-analytics-powerbi
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=dipakx23&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-
-# 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dipakx23&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
