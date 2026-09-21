@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dipak Kumar Das</h1>
 
 <h3 align="center">
-AI/ML Developer • Python & C++ • LLMs • Computer Vision • Data Analytics
+AI/ML Developer • Python & C++ • LLMs • Data Analytics
 </h3>
 
 <p align="center">
@@ -75,16 +75,6 @@ https://github.com/Dipak-7777/real-time-fraud-detection
 
 ---
 
-### 🩺 Medical AI Assistant
-
-> AI-powered medical assistant combining **LLMs, computer vision and voice interaction** to create a multimodal user experience.
-
-**Focus:** LLMs • Generative AI • Computer Vision • Voice AI • Python
-
-🔗 **Repository:**
-Add your repository link here
-
----
 
 ### 📊 Customer Churn & Revenue Analytics
 
@@ -97,16 +87,6 @@ https://github.com/dipakx23/customer-churn-revenue-analytics-powerbi
 
 ---
 
-### 😴 Drowsiness Detection System
-
-> Computer vision based system designed to detect signs of driver/user drowsiness using visual signals.
-
-**Focus:** Computer Vision • OpenCV • Machine Learning • Python
-
-🔗 **Repository:**
-Add your repository link here
-
----
 
 ## 🧠 Tech Stack
 
@@ -157,13 +137,6 @@ Add your repository link here
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dipakx23&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" />
-</p>
-
----
 
 # 📈 Contribution Activity
 
@@ -173,13 +146,6 @@ Add your repository link here
 
 ---
 
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/dipakx23/dipakx23/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-</p>
-
----
 
 # 💻 Coding & Problem Solving
 
@@ -187,13 +153,7 @@ I'm actively improving my problem-solving skills through:
 
 * Data Structures & Algorithms
 * C++
-* Problem-solving patterns
-* Dynamic Programming
-* Graph Algorithms
-* Greedy Algorithms
-* Binary Trees
-* Arrays & Strings
-* Searching & Sorting
+* Python
 
 📚 **DSA Pattern Atlas:**
 https://github.com/dipakx23/DSA_Patterns_Atlas
@@ -239,7 +199,6 @@ Generative AI
 Data Analytics
 Computer Vision
 LLM Applications
-Backend Development
 Data Structures & Algorithms
 ```
 
